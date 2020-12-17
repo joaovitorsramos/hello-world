@@ -8,4 +8,4 @@ AWS_SECRET_ACCESS_KEY
 create aws ecr repo
 
 
-test1
+test2
