@@ -2,8 +2,10 @@
 create secrets in settings: 
 
 AWS_ACCESS_KEY_ID
-secrets.AWS_SECRET_ACCESS_KEY
+
+AWS_SECRET_ACCESS_KEY
 
 create aws ecr repo
 
 
+test
