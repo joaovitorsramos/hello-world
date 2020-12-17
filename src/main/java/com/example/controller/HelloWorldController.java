@@ -4,11 +4,11 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class ByeWorldController {
+public class HelloWorldController {
 	
 	@GetMapping("/")
 	public String dummyMessage() {
-		return "Bye World Pipeline Project with ECS and Fargate (This is a different service!!)- Joao Ramos";
+		return "Hello World Pipeline Project with EKS and Fargate - Joao Ramos";
 	}
 
 }

@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>bye-world</artifactId>
+	<artifactId>hello-world</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bye-world</name>
-	<description>Second Hello World Example for CI/CD</description>
+	<description>Hello World Example for CI/CD</description>
 
 	<properties>
 		<java.version>11</java.version>
@@ -53,7 +53,7 @@
 				<version>2.0.0</version>
 				<configuration>
 					<to>
-						<image>bye-world-image</image>
+						<image>hello-world-image</image>
 					</to>
 				</configuration>
 			</plugin>
