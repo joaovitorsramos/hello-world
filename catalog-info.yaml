@@ -4,7 +4,7 @@ metadata:
   name: hello-world
   annotations:
     github.com/project-slug: joaovitorsramos/hello-world
-    backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
